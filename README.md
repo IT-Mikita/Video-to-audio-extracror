@@ -8,7 +8,6 @@ More interesting projects: - https://github.com/IT-Mikita
 ### Use
 ```
 $ git clone https://github.com/IT-Mikita/video-to-audio-extracror.git
-$ cd clickers/
 $ pip install -r requirements.txt
 $ python main.py
 ```
